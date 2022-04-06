@@ -20,7 +20,6 @@
 
 # Introduction
 
-test1
 
 # Resources and materials
 
@@ -54,10 +53,10 @@ test1
 
 # DP-203
 
-- Azure Data Engineer Technologies
+- Azure Data Engineer Technologies (1)
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/
 
-- Data Engineering on Microsoft Azure
+- Data Engineering on Microsoft Azure (2)
     - https://www.udemy.com/course/dp200exam/
 
 - Azure Data Factory For Data Engineers
@@ -65,24 +64,15 @@ test1
 
 - Azure Databricks & Spark Core For Data Engineers
     - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
-- Azure Data Engineer Associate Certification Guide
+
+- Azure Data Engineer Associate Certification Guide **Packt** (1~2)
     - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
 
-- Pass Exam DP-203 Azure Data Engineer Associate
-    - https://www.youtube.com/watch?v=cCp_7HnUrNM&list=PLWsnB2XBNJzKT5llBsX9qGvGPLFCo8V8m&index=13
-
-- Microsoft Azure Data Engineering Practice Test
+- Microsoft Azure Data Engineering **Practice Test**
     - https://www.udemy.com/course/dp-203-microsoft-azure-data-engineering-practice-test-2021-p/
 
 ## Microsoft docs for DP-203
 
 - Microsoft Certified: Azure Data Engineer Associate
     - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
-
-
-Start:
-
-- AZ-900 Azure Fundamentals Study Cram
-
-https://youtu.be/tQp1YkB2Tgs?t=1501
 
