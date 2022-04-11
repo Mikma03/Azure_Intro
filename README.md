@@ -59,13 +59,13 @@
 - Data Engineering on Microsoft Azure (2)
     - https://www.udemy.com/course/dp200exam/
 
-- Azure Data Factory For Data Engineers
+- Azure Data Factory For Data Engineers (4)
     - https://www.udemy.com/course/learn-azure-data-factory-from-scratch/
 
-- Azure Databricks & Spark Core For Data Engineers
+- Azure Databricks & Spark Core For Data Engineers (3)
     - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
 
-- Azure Data Engineer Associate Certification Guide **Packt** (1~2)
+- Azure Data Engineer Associate Certification Guide **Packt - book**
     - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
 
 - Microsoft Azure Data Engineering **Practice Test**
