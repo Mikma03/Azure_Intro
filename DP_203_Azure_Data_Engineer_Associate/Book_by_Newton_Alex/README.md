@@ -1,8 +1,8 @@
-# GiyHub link
+# GitHub link:
 
 - https://github.com/PacktPublishing/DP-203-Azure-Data-Engineer-Associate-Certification-Guide
 
-# Packt link
+# Packt link:
 
 - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
 
