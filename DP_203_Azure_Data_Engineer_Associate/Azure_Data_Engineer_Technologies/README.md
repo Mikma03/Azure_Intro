@@ -18,6 +18,8 @@ All materials and resources are dedicated to pass Azure Data Engineer Exam - 202
 Each section starts with a different sequence number. Also, the numbers are in ascending order. A brief description is provided below:
 
 - 00_ - labs
+- 00_ - Microsoft docs
 - 01_ - course overview
 - 02_ - Intro to cloud computing and Azure portal
 - 03_ - Azure Databases
+- 04_ - Data Werehose

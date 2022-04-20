@@ -57,39 +57,30 @@
 # DP-203
 
 - Azure Data Engineer Technologies (1)
-
   - https://www.udemy.com/course/microsoft-azure-database-and-analytics/
 
 - Data Engineering on Microsoft Azure (2)
-
   - https://www.udemy.com/course/dp200exam/
 
 - Azure Data Factory For Data Engineers (4)
-
   - https://www.udemy.com/course/learn-azure-data-factory-from-scratch/
 
 - Azure Databricks & Spark Core For Data Engineers (3)
-
   - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
 
-- Azure Data Engineer Associate Certification Guide **Packt - book**
-
-  - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
-
 - Microsoft Azure Data Engineering **Practice Test**
-
   - https://www.udemy.com/course/dp-203-microsoft-azure-data-engineering-practice-test-2021-p/
 
-- Azure Data Engineering Cookbook
+## Books
 
+- Azure Data Engineering Cookbook
   - https://subscription.packtpub.com/book/data/9781800206557/1
 
 - Data Engineering with Apache Spark, Delta Lake, and Lakehouse
   - https://subscription.packtpub.com/book/data/9781801077743/pref
 
-- DP-203 - Data Engineering on Microsoft Azure - alternative course
-  - udemy.com/course/data-engineering-on-microsoft-azure/
-
+- Azure Data Engineer Associate Certification Guide
+  - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
 ## Microsoft docs for DP-203
 
 - Microsoft Certified: Azure Data Engineer Associate

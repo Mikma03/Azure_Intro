@@ -1,4 +1,0 @@
-# Virtual Machines
-
-- What is SQL Server on Azure Virtual Machines?
-    - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-server-iaas-overview
