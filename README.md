@@ -2,21 +2,21 @@
 
 # Table of content
 
+<!-- TOC -->
+
+- [Microsoft Azure](#microsoft-azure)
+- [Table of content](#table-of-content)
 - [Introduction](#introduction)
-
 - [Resources and materials](#resources-and-materials)
-
 - [AZ-900](#az-900)
-
-  - [Microsoft docs for AZ-900](#microsoft-docs-for-az-900)
-
+    - [Microsoft docs for AZ-900](#microsoft-docs-for-az-900)
 - [DP-900](#dp-900)
-
-  - [Microsoft docs for DP-900](#microsoft-docs-for-dp-900)
-
+    - [Microsoft docs for DP-900](#microsoft-docs-for-dp-900)
 - [DP-203](#dp-203)
+    - [Books](#books)
+    - [Microsoft docs for DP-203](#microsoft-docs-for-dp-203)
 
-  - [Microsoft docs for DP-203](#microsoft-docs-for-dp-203)
+<!-- /TOC -->
 
 # Introduction
 
@@ -85,21 +85,3 @@
 
 - Microsoft Certified: Azure Data Engineer Associate
   - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
-
-# Study road for Aure DP-203
-
-## First step:
-
-Finish following course (overview about technologies):
-
-- Azure Data Engineer Technologies: (https://www.udemy.com/course/microsoft-azure-database-and-analytics/)
-
--
-
-## XXX step
-
-Use Azure in real world examples - peojects.
-
-- https://www.udemy.com/course/two-real-world-azure-data-engineer-projects-end-to-end/
-
-- https://www.udemy.com/course/beginning-azure-data-factory/
