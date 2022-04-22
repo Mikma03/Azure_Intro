@@ -79,8 +79,6 @@
 - Data Engineering with Apache Spark, Delta Lake, and Lakehouse
   - https://subscription.packtpub.com/book/data/9781801077743/pref
 
-- Azure Data Engineer Associate Certification Guide
-  - https://www.packtpub.com/product/azure-data-engineer-associate-certification-guide/9781801816069
 ## Microsoft docs for DP-203
 
 - Microsoft Certified: Azure Data Engineer Associate

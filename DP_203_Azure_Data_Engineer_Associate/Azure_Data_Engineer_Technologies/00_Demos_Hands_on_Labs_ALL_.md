@@ -83,3 +83,33 @@ ____________
 - 107. Demo - Analyse data distribution before migration to azure
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18641594#overview
 
+- 114. Demo - Loading with SSIS
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18641624#overview
+
+- 115. Demo - Loading with Polybase
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18641628#overview
+
+- 116. Demo - Loading with Data Factory
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18641632#overview
+
+- 119. Assignment Solution - Lab: Lake to Synapse
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982834#overview
+
+- 122. Advance Data Security
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982844#overview
+
+- 123. Auditing
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982850#overview
+
+- 131. Configuration Options
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982884#overview
+
+- 132. Performing other tasks
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982888#overview
+
+- 133. Backup and Restore
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982892#overview
+
+- 137. Monitoring
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982906#overview
+
