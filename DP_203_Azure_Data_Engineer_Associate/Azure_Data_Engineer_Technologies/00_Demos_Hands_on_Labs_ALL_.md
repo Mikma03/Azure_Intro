@@ -113,3 +113,25 @@ ____________
 - 137. Monitoring
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/18982906#overview
 
+- 150. Demo - Create Azure Data Lake Gen2 Account
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19646962#overview
+
+- 151. Demo - Data Lake Gen2 account overview
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19646976#overview
+
+- 155. Demo - On-Premises to Data Lake Gen2 using portal and storage explorer
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19647060#overview
+
+- 156. Demo - On-Premises to Data Lake Gen2 using azcopy
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19659028#overview
+
+- 157. Demo - Azure Blob to Data Lake Gen 2 using Data Factory
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19659098#overview
+
+- 158. Demo - Azure SQL Database to Data Lake Gen2 using Data Factory
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19659290#overview
+
+- 159. Demo - Amazon S3 to Data Lake Gen2 using Data Factory
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19659544#overview
+
+- 

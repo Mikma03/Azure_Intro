@@ -68,6 +68,19 @@
         - [Load](#load)
         - [ETL tools](#etl-tools)
         - [Holistic data engineering](#holistic-data-engineering)
+- [Store data in Azure](#store-data-in-azure)
+    - [Choose a data storage approach in Azure](#choose-a-data-storage-approach-in-azure)
+        - [Classify your data](#classify-your-data)
+        - [Structured data](#structured-data)
+        - [Semi-structured data](#semi-structured-data)
+        - [Common formats](#common-formats)
+            - [XML](#xml)
+            - [JSON](#json)
+            - [YAML](#yaml)
+        - [Unstructured data](#unstructured-data)
+    - [OLTP vs OLAP](#oltp-vs-olap)
+    - [Azure Blob storage](#azure-blob-storage)
+    - [Azure SQL Database](#azure-sql-database)
 
 <!-- /TOC -->
 
@@ -558,3 +571,130 @@ In traditional descriptive analytics projects, you might have transformed data i
 These project phases don't necessarily have to flow linearly. For example, because machine learning experimentation is iterative, the Analyze phase sometimes reveals issues such as missing source data or transformation steps. To get the results you need, you might need to repeat earlier phases.
 
 To fully appreciate this process, let's examine it by using an example of high-level architecture.
+
+# Store data in Azure
+
+## Choose a data storage approach in Azure
+
+### Classify your data
+
+An online retail business has different types of data. Each type of data may benefit from a different storage solution.
+
+Application data can be classified in one of three ways: structured, semi-structured, and unstructured. Here, you'll learn how to classify your data so that you can choose the appropriate storage solution.
+
+### Structured data
+Structured data, sometimes referred to as relational data, is data that adheres to a strict schema, so all of the data has the same fields or properties. The shared schema allows this type of data to be easily searched with query languages such as SQL (Structured Query Language). This capability makes this data style perfect for applications such as CRM systems, reservations, and inventory management.
+
+Structured data is often stored in database tables with rows and columns with key columns to indicate how one row in a table relates to data in another row of another table. The below image shows data about students and classes with a relationship to grades that ties them together.
+
+<p align="center">
+  <img src="https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/media/2-relational-db.png"/>
+</p>
+
+
+### Semi-structured data
+Semi-structured data is less organized than structured data, and is not stored in a relational format, as the fields do not neatly fit into tables, rows, and columns. Semi-structured data contains tags that make the organization and hierarchy of the data apparent - for example, key/value pairs. Semi-structured data is also referred to as non-relational or NoSQL data. The expression and structure of the data in this style is defined by a serialization language.
+
+For software developers, data serialization languages are important because they can be used to write data stored in memory to a file, sent to another system, parsed and read. The sender and receiver don’t need to know details about the other system, as long as the same serialization language is used, the data can be understood by both systems.
+
+### Common formats
+Today, there are three common serialization languages you're likely to encounter:
+
+#### XML
+
+XML, or extensible markup language, was one of the first data languages to receive widespread support. It's text-based, which makes it easily human and machine-readable. In addition, parsers for it can be found for almost all popular development platforms. XML allows you to express relationships and has standards for schema, transformation, and even displaying on the web.
+
+Here's an example of a person with hobbies expressed in XML.
+
+<Person Age="23">
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <Hobbies>
+        <Hobby Type="Sports">Golf</Hobby>
+        <Hobby Type="Leisure">Reading</Hobby>
+        <Hobby Type="Leisure">Guitar</Hobby>
+   </Hobbies>
+</Person>
+
+XML expresses the shape of the data using tags. These tags come in two forms: elements such as <FirstName> and attributes that can be expressed in text like Age="23". Elements can have child elements to express relationships - such as the <Hobbies> tag above which is expressing a collection of Hobby elements.
+
+XML is flexible and can express complex data easily. However, it tends to be more verbose making it larger to store, process, or pass over a network. As a result, other formats have become more popular.
+
+#### JSON
+
+JSON – or JavaScript Object Notation, has a lightweight specification and relies on curly braces to indicate data structure. Compared to XML, it is less verbose and easier to read by humans. JSON is frequently used by web services to return data.
+
+Here's the same person expressed in JSON.
+
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": "23",
+    "hobbies": [
+        { "type": "Sports", "value": "Golf" },
+        { "type": "Leisure", "value": "Reading" },
+        { "type": "Leisure", "value": "Guitar" }
+    ]
+}
+
+Notice that this format isn't as formal as XML. It's closer to a key/value pair model than a formal data expression. As you might guess from the name, JavaScript has built-in support for this format - making it very popular for web development. Like XML, other languages have parsers you can use to work with this data format. The downside to JSON is that it tends to be more programmer-oriented making it harder for non-technical people to read and modify.
+
+#### YAML
+
+YAML – or YAML Ain’t Markup Language, is a relatively new data language that’s growing quickly in popularity in part due to its human-friendliness. The data structure is defined by line separation and indentation, and reduces the dependency on structural characters like parentheses, commas and brackets.
+
+Here's the same person data expressed in YAML.
+
+firstName: John
+lastName: Doe
+age: 23
+hobbies:
+    - type: Sports
+      value: Golf
+    - type: Leisure
+      value: Reading
+    - type: Leisure
+      value: Guitar
+
+This format is more readable than JSON and is often used for configuration files that need to be written by people but parsed by programs. However, YAML is the newest of these data formats and doesn't have as much support in programming languages as JSON and XML.
+
+
+### Unstructured data
+The organization of unstructured data is ambiguous. Unstructured data is often delivered in files, such as photos or videos. The video file itself may have an overall structure and come with semi-structured metadata, but the data that comprises the video itself is unstructured. Therefore, photos, videos, and other similar files are classified as unstructured data.
+
+Examples of unstructured data include:
+
+- Media files, such as photos, videos, and audio files
+- Office files, such as Word documents
+- Text files
+- Log files
+
+Now that you know the differences between each kind of data, let's look at the data sets used in an online retail business, and classify them.
+
+## OLTP vs OLAP
+Transactional databases are often called OLTP (Online Transaction Processing) systems. OLTP systems commonly support lots of users, have quick response times, and handle large volumes of data. They are also highly available (meaning they have very minimal downtime), and typically handle small or relatively simple transactions.
+
+On the contrary, OLAP (Online Analytical Processing) systems commonly support fewer users, have longer response times, can be less available, and typically handle large and complex transactions.
+
+The terms OLTP and OLAP aren't used as frequently as they used to be, but understanding them makes it easier to categorize the needs of your application.
+
+Now that you're familiar with transactions, OLTP, and OLAP, let's walk through each of the data sets in the online retail scenario, and determine the need for transactions.
+
+## Azure Blob storage
+Azure Blob storage supports storing files such as photos and videos. It also works with Azure Content Delivery Network (CDN) by caching the most frequently used content and storing it on edge servers. Azure CDN reduces latency in serving up those images to your users.
+
+By using Azure Blob storage, you can also move images from the hot storage tier to the cool or archive storage tier, to reduce costs and focus throughput on the most frequently viewed images and videos.
+
+## Azure SQL Database
+Business data will most likely be queried by business analysts, who are more likely to know SQL than any other query language. Azure SQL Database could be used as the solution by itself, but pairing it with Azure Analysis Services enables data analysts to create a semantic model over the data in SQL Database. The data analysts can then share it with business users, so that they only need to connect to the model from any business intelligence (BI) tool to immediately explore the data and gain insights.
+
+## zure Cosmos DB
+Azure Cosmos DB supports semi-structured data, or NoSQL data, by design. So, supporting new fields, such as the "Bluetooth-enabled" field or any new fields you need in the future, is a given with Azure Cosmos DB.
+
+Azure Cosmos DB supports SQL for queries and every property is indexed by default. You can create queries so that your customers can filter on any property in the catalog.
+
+Azure Cosmos DB is also ACID-compliant, so you can be assured that your transactions are completed according to those strict requirements.
+
+As an added plus, Azure Cosmos DB also enables you to replicate your data anywhere in the world with the click of a button. So, if your e-commerce site has users concentrated in the US, France, and England, you can replicate your data to those data centers to reduce latency, as you've physically moved the data closer to your users.
+
+Even with data replicated around the world, you can choose from one of five consistency levels. By choosing the right consistency level, you can determine the tradeoffs to make between consistency, availability, latency, and throughput. You can scale up to handle higher customer demand during peak shopping times, or scale down during slower times to conserve cost.

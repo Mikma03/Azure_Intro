@@ -83,3 +83,7 @@
 
 - Microsoft Certified: Azure Data Engineer Associate
   - https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/?tab=tab-learning-paths
+
+
+
+

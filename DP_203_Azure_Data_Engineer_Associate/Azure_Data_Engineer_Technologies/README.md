@@ -23,3 +23,4 @@ Each section starts with a different sequence number. Also, the numbers are in a
 - 02_ - Intro to cloud computing and Azure portal
 - 03_ - Azure Databases
 - 04_ - Data Werehose
+- 05_ - Azure Data Lake
