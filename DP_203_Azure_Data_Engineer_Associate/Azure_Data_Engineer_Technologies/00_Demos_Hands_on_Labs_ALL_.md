@@ -134,4 +134,139 @@ ____________
 - 159. Demo - Amazon S3 to Data Lake Gen2 using Data Factory
     - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19659544#overview
 
-- 
+- 167. Azure Databricks:
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19685244#overview
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19685252#overview
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19685256#overview
+
+- 183. Demo: Activity Logs
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19830002#overview
+
+- 185. Demo: Metrics
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19875026#overview
+
+- 186. Demo: Insights
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19875030#overview
+
+- 187. Demo: Alerts
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19875040#overview
+
+- 189. Demo: Diagnostic settings
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/19875090#overview
+
+- 197. Demo: Part 1 Provision Azure Storage Account
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20956454#overview
+
+- 197. Demo: Part 1 Provision Azure Storage Account
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20956454#overview
+
+ - 198. Demo Part 2: Azure Storage Replication
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20956464#overview
+
+- 199. Demo: Part 3 Continue Provisioning Azure Storage account
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20956472#overview
+
+- 201. Managing the Data LifeCycle
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21344948#overview
+
+- 208. Provision Cosmos DB Account
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20507758#overview
+
+- 213. Cosmos DB - Dedicated vs Shared throughput
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20695682#overview
+
+- 219. Demo Insert and query data in your cosmos DB
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20770600#overview
+
+- 221. Cosmos DB - Globally Distribution feature
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20770648#overview
+
+- 222. Cosmos DB - Multi Master feature
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20770670#overview
+
+- 227. 228. Cosmos DB - Monitoring through Cosmos DB Portal
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21165892#overview
+
+- 239. Streaming Analytics - Processing Blob Storage Input
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20834242#overview
+
+- 240. Streaming Analytics - Processing IOT Hub Input
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20834264#overview
+
+- 249. Demo: Provision Databricks, Clusters and workbook
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20938840#overview
+
+- 250. Demo: Mount Data Lake to Databricks DBFS
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20938852#overview
+
+- 251. Demo :Explore, Analyze, Clean, Transform and Load Data in
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/20938860#overview
+
+- 258. Provision Azure Data Factory Instance
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16349486#overview
+
+- 260. Data Factory - Pipeline and Activities
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16349596#overview
+
+- 261. Data Factory - Linked Service and Datasets
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16349858#overview
+
+- 262. Data Factory - Integration runtime
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350026#overview
+
+- 263. Data Factory - Triggers
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350034#overview
+
+- 264. Data Factory - Copy Data Activity Wizard
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350058#overview
+
+- 266. Data Factory - Secure Input/Output Property
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350222#overview
+
+- 268. Data Factory - Parameters
+    https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350286#overview
+
+- 269. Data Factory - Data Flow Concept
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16350386#overview
+
+- 270. Data Factory - Mapping Data Flow
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16362078#overview
+
+- 271. Data Factory - Wrangling Data Flow
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21078550#overview
+
+- 272. Data Factory - Monitoring
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21078552#overview
+
+- 273. Data Factory - Monitoring through Metrics, Alerts, Diagnostic Settings
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21078572#overview
+
+- 276. Introduction to Azure Monitor Service
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21083578#overview
+
+277. Demo: Azure Monitor Service
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/21083582#overview
+
+- 288. Create Azure Data Lake Storage Gen 2 (source) and SQL Server (destination)
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16684950#overview
+
+- 290. Add Managed Identity to Gen2 and Database accounts
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685026#overview
+
+- 291. Create HDInsight Interactive Query Cluster
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685028#overview
+
+- 292. Ambari overview and UI
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685140#overview
+
+- 293. Ingest dataset in to DataLake storage
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685144#overview
+
+- 294. Data Extraction with Hive
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685146#overview
+
+- 295. Data transformation with Hive
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685156#overview
+
+- 296. Data Export using Sqoop
+    - https://www.udemy.com/course/microsoft-azure-database-and-analytics/learn/lecture/16685158#overview

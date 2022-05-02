@@ -69,7 +69,9 @@
   - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
 
 - Microsoft Azure Data Engineering **Practice Test**
-  - https://www.udemy.com/course/dp-203-microsoft-azure-data-engineering-practice-test-2021-p/
+  - https://www.udemy.com/course/practice-exams-microsoft-azure-dp-203-data-engineering/
+
+  - https://www.udemy.com/course/microsoft-azure-data-engineer-exam-practice-tests/
 
 ## Books
 
