@@ -1,0 +1,128 @@
+
+# Table of contents
+
+<!-- TOC -->
+
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Non-Relational Data Storage](#non-relational-data-storage)
+- [Relational Data Storage](#relational-data-storage)
+
+<!-- /TOC -->
+
+# Introduction
+
+All hands on exercises during following course:  DP-203: Data Engineering on Microsoft Azure
+
+
+____________
+
+**All below demos are in order regarding to the course.**
+
+
+# Non-Relational Data Storage
+
+- 20. Demo Provision Azure Storage Account
+    - https://www.udemy.com/course/dp200exam/learn/lecture/30805438#overview
+
+- 22. Azure Blob Storage
+    - https://www.udemy.com/course/dp200exam/learn/lecture/30805446#questions
+
+- 27. Demo Azure File Share Storage
+    - https://www.udemy.com/course/dp200exam/learn/lecture/30805484#overview
+
+- 28. Azure Disk Storage and demo
+    - https://www.udemy.com/course/dp200exam/learn/lecture/30805494#overview
+
+- 32. Cosmos DB: Provision Account
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590632#questions
+
+- 37. Cosmos DB: Dedicated vs Shared throughput
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590716#questions
+
+- 42. Cosmos DB: Demo - Insert and query data
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590754#questions
+
+- 43. Cosmos DB: Time to Live
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591152#questions
+
+- 44. Cosmos DB: Globally Distribution
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591156#questions
+
+- 45. Cosmos DB: Multi Master
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591160#questions
+
+- 46. Cosmos DB: Manual vs Automatics Fail-over
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591162#questions
+
+- 50. Cosmos DB: Security
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21591180#questions
+
+- 54. Azure Blob & Data Lake Security options
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21761702#overview
+
+- 57. Cosmos DB - HA and DR Options
+    - https://www.udemy.com/course/dp200exam/learn/lecture/23952332#overview
+
+# Relational Data Storage
+
+- 65. Azure SQL Server Demo: Provision Single Database
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21638676#overview
+
+- 68. Azure Elastic Database Demo: Provision
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21638692#overview
+
+- 70. Scaling Azure Database
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27768948#overview
+
+- 71. Azure SQL Database High Availability and Disaster Recovery
+    - https://www.udemy.com/course/dp200exam/learn/lecture/23952350#overview
+
+- 72. Azure SQL Database Backup and Restore
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27768976#overview
+
+- 76. Demo: Connect Dedicated SQL Pool with SSMS
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788354#overview
+
+- 77. Demo: Create Azure Synapse Analytics Studio Workspace
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788366#overview
+
+- 78. Demo: Explore Synapse Studio
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788374#overview
+
+- 79. Demo: Create Dedicated SQL Pool and Spark Pool
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788376#overview
+
+- 80. Demo: Analyse Data using Dedicated SQL Pool
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788384#overview
+
+- 81. Demo: Analyse Data using Apache Spark Notebook
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788386#overview
+
+- 82. Demo: Analyse Data using Serverless SQL Pool
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788388#overview
+
+- 83. Demo: Data Factory from Synapse Analytics Studio
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788402#overview
+
+- 84. Demo: Monitor Synapse Studio
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27788408#overview
+
+- 85. Azure Synapse: MPP Architecture
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21655648#overview
+
+- 91. Demo: Analyze Data distribution before migration to Azure
+    - https://www.udemy.com/course/dp200exam/learn/lecture/23203600#overview
+
+- 94. Azure Synapse Demo: Loading with Polybase
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21655702#overview
+
+- 95. Scaling Azure Datawarehouse
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27768954#overview
+
+- 96. Azure SQL Datawarehouse Backup and Restore
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27768982#overview
+
+- 98. Implement data masking
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590326#overview
+
