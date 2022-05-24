@@ -43,7 +43,6 @@
 # DP-900
 
 - Azure Data Fundamentals Certification (DP-900) - Full Course
-
   - https://www.youtube.com/watch?v=P3qmqUZJ7l0&t=16441s
 
 - DP-900: Microsoft Azure Data Fundamentals
@@ -69,8 +68,6 @@
   - https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
 
 - Microsoft Azure Data Engineering **Practice Test**
-  - https://www.udemy.com/course/practice-exams-microsoft-azure-dp-203-data-engineering/
-
   - https://www.udemy.com/course/microsoft-azure-data-engineer-exam-practice-tests/
 
 ## Books

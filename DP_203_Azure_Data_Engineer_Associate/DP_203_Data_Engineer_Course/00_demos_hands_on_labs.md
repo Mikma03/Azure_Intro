@@ -7,6 +7,8 @@
 - [Introduction](#introduction)
 - [Non-Relational Data Storage](#non-relational-data-storage)
 - [Relational Data Storage](#relational-data-storage)
+- [Batch Processing](#batch-processing)
+- [Streaming Analytics](#streaming-analytics)
 
 <!-- /TOC -->
 
@@ -126,3 +128,58 @@ ____________
 - 98. Implement data masking
     - https://www.udemy.com/course/dp200exam/learn/lecture/21590326#overview
 
+- 99. Encrypt data at rest and in motion
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590338#overview
+
+
+# Batch Processing
+
+- 106. Provision Data Factory
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590144#overview
+
+- 108. Data Factory - Pipeline and Activities
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590152#overview
+
+- 109. Data Factory - Linked service and Datasets
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590154#overview
+
+- 110. Data Factory - Integration Runtime
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590156#overview
+
+- 111. Data Factory - Triggers
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590158#overview
+
+- 112. Demo: Copy Data Activity through wizard
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590162#overview
+
+- 113. Demo: Copy Data Activity using Author page
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590166#overview
+
+- 114. Data Factory - User Properties
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27838236#overview
+
+- 115. Data Factory - Parameters
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27838244#overview
+
+- 116. Data Factory - Data Flow Concept
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27838248#overview
+
+- 117. Data Factory - Mapping Data Flow
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27838256#overview
+
+- 118. Data Factory - Wrangling Data Flow
+    - https://www.udemy.com/course/dp200exam/learn/lecture/27838260#overview
+
+- 122. Demo: Provision Databricks, Clusters and workbook
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590254#overview
+
+- 123. Demo: Mount Data Lake to Databricks DBFS
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590260#overview
+
+- 124. Demo: Explore, Analyze, Clean, Transform and Load Data in Databricks
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590264#overview
+
+- 126. Azure Databricks Clusters
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590272#overview
+
+# Streaming Analytics
