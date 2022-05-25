@@ -9,6 +9,8 @@
 - [Relational Data Storage](#relational-data-storage)
 - [Batch Processing](#batch-processing)
 - [Streaming Analytics](#streaming-analytics)
+- [Monitor Data Storage](#monitor-data-storage)
+- [Monitor Data Processing](#monitor-data-processing)
 
 <!-- /TOC -->
 
@@ -183,3 +185,38 @@ ____________
     - https://www.udemy.com/course/dp200exam/learn/lecture/21590272#overview
 
 # Streaming Analytics
+
+- 139. Demo: Processing Blob Storage Input
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21590058#overview
+
+- 140. Demo: Processing IOT Hub Input
+    - https://www.udemy.com/course/dp200exam/learn/lecture/28194596#overview
+
+
+# Monitor Data Storage
+
+- 145. Intro to Azure Monitor Service
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589930#overview
+
+- 146. Demo: Azure Monitor Service
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589932#overview
+
+- 147. Implementing Blob and Data Lake Storage monitoring
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21782028#overview
+
+- 148. Implement Azure Synapse Analytics monitoring
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589742#overview
+
+- 149. Implement Cosmos DB monitoring
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589728#overview
+
+
+# Monitor Data Processing
+
+- 154. Monitor Data Factory Pipelines
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589592#overview
+
+- 155. Monitor Data Factory - Metrics, Alerts, Diagnostic Settings
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589624#overview
+
+- 156. Monitor Azure Databricks
