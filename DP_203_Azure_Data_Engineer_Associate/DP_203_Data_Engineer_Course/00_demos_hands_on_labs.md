@@ -11,6 +11,8 @@
 - [Streaming Analytics](#streaming-analytics)
 - [Monitor Data Storage](#monitor-data-storage)
 - [Monitor Data Processing](#monitor-data-processing)
+- [Optimize Azure Data Solutions](#optimize-azure-data-solutions)
+- [Designing Azure Data Solutions](#designing-azure-data-solutions)
 
 <!-- /TOC -->
 
@@ -220,3 +222,23 @@ ____________
     - https://www.udemy.com/course/dp200exam/learn/lecture/21589624#overview
 
 - 156. Monitor Azure Databricks
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589630?start=30#overview
+
+- 157. Monitor Stream Analytics
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589632#overview
+
+
+# Optimize Azure Data Solutions
+
+- 164. Optimize Stream Analytics
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589558#overview
+
+- 165. Optimize Azure Synapse Analytics
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589314#overview
+
+- 166. Manage the Data Lifecycle
+    - https://www.udemy.com/course/dp200exam/learn/lecture/21589582#overview
+
+
+# Designing Azure Data Solutions
+
